@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN projects<br>🌱 I’m currently learning deployments<br>💬 Ask me about - Reactjs, Javascript, Nodejs, MongoDB<br>⚡ Fun fact - always passionate to learn new teachnologies
+🔭 I’m currently working as a backend developer @IdeaUsher<br>🌱 I’m currently exploring microservices<br>💬 Ask me about - Fullstack<br>⚡ Fun fact - always passionate to learn new teachnologies
 
 
 ## 🌐 Socials:
